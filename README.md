@@ -11,3 +11,7 @@ Commands that I used to get the DockerFile to run: `docker build nginix .` insid
 I also used `docker run -d -p 5000:80 nginix`
 
 I also used this [website](https://hub.docker.com/_/httpd) for help on getting Docker to work
+
+Here is proof of my docker working 
+
+[Docker Proof](DockerProof.PNG)

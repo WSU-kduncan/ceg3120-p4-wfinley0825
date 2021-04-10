@@ -14,4 +14,4 @@ I also used this [website](https://hub.docker.com/_/httpd) for help on getting D
 
 Here is proof of my docker working 
 
-[Docker Proof](DockerProof.PNG)
+![Docker Proof](DockerProof.PNG)

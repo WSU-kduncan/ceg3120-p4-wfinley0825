@@ -49,4 +49,4 @@ I added 3 keys, one for my DockerHub username, one for my DockerHub password, an
 
 ## Configure GitHub Workflow
 
-The variables that I needed to change in the github workflow were 
+The variables that I needed to change in the github workflow was just the repository name towards the bottom of the Dockerfile.
